@@ -1,0 +1,24 @@
+.progress-circle-display{ 
+    display: flex; 
+    flex-direction: column; 
+    margin: 10px; 
+    flex-basis: 20%;
+} 
+
+.progress-circle{ 
+    max-width: 200px; 
+    max-height:200px; 
+    margin: 20px;
+} 
+
+.progress-circle-layout{ 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} 
+
+.bucket-font{ 
+    font-weight: 100;
+    font-style: normal; 
+    font-style: inherit;
+}

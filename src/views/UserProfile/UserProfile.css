@@ -1,0 +1,21 @@
+.user-profile-display{ 
+    display: inline-flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+} 
+
+.msme-card-display{  
+    display: inline-flex; 
+    flex-direction: row; 
+    flex-wrap: wrap;
+} 
+
+.main-card-display{ 
+    display: flex;
+    flex-direction: column;
+} 
+
+.card-text{ 
+    text-align: center; 
+    padding: 2px;
+}

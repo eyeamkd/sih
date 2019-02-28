@@ -1,0 +1,68 @@
+.signin{ 
+    align-items: center;
+    justify-content: center;
+} 
+
+.card{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+} 
+
+.formLayout{ 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;  
+    width: 200px; 
+    
+
+} 
+.cardLayout{ 
+    margin-left: 32vw;
+    margin-right: 32vw; 
+    margin-bottom: 20vw;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 30px;
+    
+}  
+.heading{ 
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+}
+.formElement{ 
+    margin-top: 15px;
+    margin-bottom:15px;  
+    margin-left: 0px;
+    margin-right: 0px; 
+    
+    
+} 
+
+.mainLayout{ 
+    background-image: url('https://images.vexels.com/media/users/3/148171/isolated/preview/b4ad26cf6cc8ad39b0923cf65e1ea540-abstract-rectangle-background-vector-by-vexels.png'); 
+    background-repeat: no-repeat;
+    background-size: contain; 
+    height:100%; 
+    margin-top: 0px;
+}
+
+.formCard{  
+    width: auto;
+} 
+
+.buttonLayout{ 
+    display:flex;
+    flex-direction: row;  
+    justify-content: space-around;
+    align-content: space-around;  
+    margin-bottom: 10px;
+} 
+
+.button{ 
+    margin: 5px;
+}
